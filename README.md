@@ -5,17 +5,17 @@ Using a dataset with 400 plus records on several car statistics, I implemented a
 CARS_1 csv Documentation:
 
 406 rows 
-9columns 
+9 columns 
 
-Car <- Name of the Car 
-MPG <- Miles Per Gallon
-Cylinders <- # of Cylinders in Car 
-Displacement <- Engine displacement measured in cubic centimeters, (larger the stronger the engine)
-Horsepower <- Force needed to move 550 pounds 1 foot in a second, measured in watts 
-Weight <- How heavy the car is, measured in pounds
-Acceleration <- amount of time for car to go 0 to 60 mph, measured in meters per second
-Model <- Year car was introduced in 1900's
-Origin <- Country of Origin 
+Car = Name of the Car |
+MPG = Miles Per Gallon |
+Cylinders = # of Cylinders in Car |
+Displacement = Engine displacement measured in cubic centimeters, (larger the stronger the engine) |
+Horsepower = Force needed to move 550 pounds 1 foot in a second, measured in watts |
+Weight = How heavy the car is, measured in pounds |
+Acceleration = amount of time for car to go 0 to 60 mph, measured in meters per second |
+Model = Year car was introduced in 1900's |
+Origin = Country of Origin |
 
 
 Problem/Obstacle: 
